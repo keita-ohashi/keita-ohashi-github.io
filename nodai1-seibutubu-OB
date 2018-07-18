@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>東京農業大学第一高等学校　生物部卒業生の会</title>
+    <link rel="stylesheet" href="home.CSS" type="text/css">
+  </head>
+  <body>
+     <header>
+      
+     
+      <div class="header-logo">東京農業大学第一高等学校　生物部卒業生の会
+      
+      </div>
+       <br></br>
+        <a href="" class="btn purple">生物部とは</a>
+        
+        <a href="" class= "btn grey">ログイン</a>
+        <a href="" class="btn yellow">卒業生の会とは</a>
+        <a href="" class="btn blue">OBの近況</a>
+        <a href="" class="btn red">寄付のお願い</a>
+        
+     </div>
+     </header>
+    <div class="main">
+      <div class="copy-container">
+        <h2>このページでは農大一高生物部卒業生の連絡手段および活動の告知をしていきます</h2>
+        
+　　　<div class="contents>
+       <div class="contents-item">
+        <img src="">
+      
+       
+        <h1>最近の活動・告知</h1>
+        <li>
+     
+        <a href="">2018年　　　　60年記念誌を作成中です。現在の進捗はこちら</a>
+        </li>
+        <li></li>
+        <li>
+        <a href="">2018年6月23日　総会を農大一高で行います</a>
+        </li>
+        <li></li>
+        <li>
+        <a href="">2018年6月23日　連絡のつかないOBを探しています</a>
+        </li>
+        <li></li>
+        <li></li>
+        <li></li>
+
+
+         </div>
+      </div>
+      </div>
+      
+    
+      <footer>
+     <li>東京農業大学第一高等学校　生物部卒業生の会（フッター）</li>
+     <li>URL</li>
+     <li>東京農業大学第一高等学校・中等部　同窓会</li>
+      </footer>
+  </body>
+</html>
